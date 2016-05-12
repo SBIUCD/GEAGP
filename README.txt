@@ -1,0 +1,1 @@
+Please see test_GEAGP.m for example of how to use the GEAGP algorithms

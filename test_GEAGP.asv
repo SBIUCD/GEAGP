@@ -1,0 +1,5 @@
+t=1:10; % time points
+Nr=3; % number of replicate
+sigma = 1; %noise variance
+[y,y1]=generate_two_sets_of_time_course(t,Nr,sigma,0); %Generate two sets of time courses
+p=two_sample_test(
